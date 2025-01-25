@@ -1,3 +1,4 @@
 fastapi[standard]
 firebase-admin
 google-cloud-storage
+google-cloud-aiplatform
